@@ -50,7 +50,7 @@
     "eslint-plugin-mattermost": "github:mattermost/eslint-plugin-mattermost#5b0c972eacf19286e4c66221b39113bf8728a99e",
     "eslint-plugin-no-only-tests": "3.3.0",
     "eslint-plugin-react": "7.37.5",
-    "express": "5.1.0",
+    "express": "5.2.0",
     "extract-zip": "2.0.1",
     "globals": "16.3.0",
     "jiti": "2.5.1",
