@@ -2,7 +2,6 @@
 // See LICENSE.txt for license information.
 
 import classNames from 'classnames';
-import RhsPlugin from 'plugins/rhs_plugin';
 import React from 'react';
 
 import type {Channel} from '@mattermost/types/channels';
@@ -28,6 +27,8 @@ import {focusElement, getFirstFocusableChild} from 'utils/a11y_utils';
 import Constants from 'utils/constants';
 import {cmdOrCtrlPressed, isKeyPressed} from 'utils/keyboard';
 import {isMac} from 'utils/user_agent';
+
+import RhsPlugin from 'plugins/rhs_plugin';
 
 import type {RhsFocusIntent, RhsState} from 'types/store/rhs';
 

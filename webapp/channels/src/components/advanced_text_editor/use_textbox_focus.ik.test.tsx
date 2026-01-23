@@ -2,9 +2,10 @@
 // See LICENSE.txt for license information.
 
 import React from 'react';
-import {renderWithContext} from 'tests/react_testing_utils';
 
 import type {DeepPartial} from '@mattermost/types/utilities';
+
+import {renderWithContext} from 'tests/react_testing_utils';
 
 import type {GlobalState} from 'types/store';
 
