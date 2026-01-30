@@ -41,7 +41,7 @@
     "concurrently": "9.0.1",
     "cross-env": "7.0.3",
     "css-loader": "6.7.3",
-    "eslint": "8.57.0",
+    "eslint": "9.26.0",
     "eslint-import-resolver-webpack": "0.13.8",
     "eslint-plugin-formatjs": "4.13.3",
     "eslint-plugin-react": "7.34.0",
